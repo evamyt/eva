@@ -1,0 +1,44 @@
+body {
+	font-family: 'Titillium Web', sans-serif;
+	background-image:url(photo/marbrel.jpg);
+	text-align: center;
+}
+
+h2 {
+	color: #C73E1D;
+	font-size: 20px;
+	font-family: 'Fjalla One', sans-serif;
+}
+
+h1{
+	color:#af0404;
+}
+
+.card {
+	background-color: #E7D7C1;
+	margin: 30px auto;
+	width: 400px;
+	border-radius: 5%;
+	padding: 40px;
+	box-shadow: 3px 3px grey;
+	display: flex;
+    text-align: center;
+}
+
+.card-item-1 {
+	width: 150px;
+	text-align: center;
+}
+.card-item-2 {
+
+}
+.intro{
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	padding: 20px;
+}
+
+.img-circle {
+	border-radius: 50%
+ }
